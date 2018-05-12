@@ -1,0 +1,23 @@
+.label{
+  font-weight: bold;
+  }
+  .interestingfact{
+    font-style: italic;
+  }
+.border {
+  border-style: solid;
+  border-width: thin;
+  border-color: gray;
+  padding: 15px;
+  width: 300px;
+}
+.list {
+  list-style: none;
+  padding-left:0;
+}
+.smallborder {
+  border-style: solid;
+  border-width: thin;
+  border-color: gray;
+  padding: 15px;
+}
