@@ -1,0 +1,20 @@
+/* add your CSS here */
+.label{
+  font-weight: bold;
+  }
+  #interesting-fact{
+    font-style: italic;
+  }
+#container {
+  border:solid; 2px;
+  border-color: gray;
+  padding: 15px;
+  width: 300px;
+}
+#facts{
+  list-style-type: none;}
+
+.animal-info {
+  border: 1px solid grey;
+  padding: 15px;
+}
